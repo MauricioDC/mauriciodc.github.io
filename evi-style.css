@@ -3,6 +3,7 @@
 /* Primary resets */
 body {
     margin: 0px;
+    -webkit-appearance: none;
 }   
 
 h1 {
